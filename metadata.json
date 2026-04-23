@@ -1,0 +1,14 @@
+{
+  "name": "AgriSmart AI",
+  "description": "L’agronome dans ta poche - Assistant agricole intelligent pour l'Afrique de l'Ouest",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered crop diagnosis",
+    "Multilingual support (FR, FUL, EN)",
+    "Offline mode simulation",
+    "Agricultural advice"
+  ]
+}
